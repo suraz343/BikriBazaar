@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# BikriBazaar
+Bikri Bazaar is an online marketplace for buying and selling second-hand goods locally. It connects sellers with nearby buyers, offering a simple, efficient platform for trading pre-owned items. Whether you’re decluttering or searching for deals, Bikri Bazaar brings the traditional bazaar experience to your fingertips.
+>>>>>>> fa0d84b3d1ad71548530c35f2ec783ac9890c525
